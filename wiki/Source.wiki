@@ -1,3 +1,11 @@
-=Source=
-
 Source code is on [http://github.com/bagilevi/android-pedometer GitHub]
+
+To make your own version fork [http://github.com/bagilevi/android-pedometer the project on GitHub]
+
+To get a local copy install git and clone the project like this:
+
+{{{
+git clone git://github.com/bagilevi/android-pedometer.git
+}}}
+
+or [https://github.com/bagilevi/android-pedometer/zipball/master download .zip] or [https://github.com/bagilevi/android-pedometer/tarball/master download .tar.gz]
