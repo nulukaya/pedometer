@@ -1,0 +1,3 @@
+# Source code is managed on GitHub.
+
+Source code is on [http://github.com/bagilevi/android-pedometer GitHub]
